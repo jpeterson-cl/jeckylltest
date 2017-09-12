@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 url: https://jpeterson-cl.github.io/jeckylltest/
+plugins:
+  - jekyll-feed
